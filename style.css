@@ -1,0 +1,47 @@
+.muerte1 {
+
+    background-image: url(gifts/chat-dead.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+    background-color: rgba(255,0,0,0.5)
+}
+
+
+.ciudada {
+background-image: url(gifts/ciudadabandonada.gif);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 800px;
+
+}
+.caraseria {
+
+    background-image: url(gifts/caraseria.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+
+}
+
+.caraseria2 {
+
+ background-image: url(gifts/caraseria.gif);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 700px;
+
+}
+
+.joelrelajado {
+
+    background-image: url(gifts/joelrelajado.gif);
+    background-repeat: no-repeat;
+}
+
+
+
